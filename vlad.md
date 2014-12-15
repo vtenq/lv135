@@ -1,4 +1,0 @@
-General groups
-===
-Blogger
----
