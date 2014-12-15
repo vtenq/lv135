@@ -1,1 +1,1 @@
-# $ sodu apt-get find sex, drugs, rock'n'roll #
+# $ sudo apt-get find sex, drugs, rock'n'roll #
