@@ -1,1 +1,3 @@
-# $ sudo apt-get find sex, drugs, rock'n'roll #
+# What it is
+
+Documenting effort for Trip Journal project.
